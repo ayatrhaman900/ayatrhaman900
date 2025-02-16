@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ayatrhaman900(Arifur Rhaman). It is my office github profile.
+- 👋 Hi, I’m @ayatrhaman900(Arifur Rhaman). It is my official github profile.
 - 👀 I’m interested in fullstack development and currently I am working on flutter technology, for backend and programming practise I use python.
 - 🌱 I’m currently learning Advanced level system designing.
 - 💞️ I’m looking to collaborate on Flutter and django.
